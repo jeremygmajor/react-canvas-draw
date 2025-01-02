@@ -29,7 +29,7 @@
     "resize-observer-polyfill": "^1.5.0"
   },
   "peerDependencies": {
-    "react": "16.x || 17.x"
+    "react": "16.x || 17.x || 18.x || 19.x"
   },
   "devDependencies": {
     "all-contributors-cli": "^6.15.0",
@@ -47,8 +47,8 @@
     "eslint-plugin-react": "^7.1.0",
     "gh-pages": "^1.1.0",
     "nwb": "0.25.x",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
+    "react": ">=16.x <=19.x",
+    "react-dom": ">=16.x <=19.x",
     "style-loader": "^0.19.1"
   },
   "author": "Jaka Krajnc <jaka.krajnc.jk@gmail.com>",
